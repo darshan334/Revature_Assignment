@@ -1,0 +1,14 @@
+D:\Revature\Revature_ Assignment\Day2\assignment2\bin\Debug\net9.0\assignment2.exe
+D:\Revature\Revature_ Assignment\Day2\assignment2\bin\Debug\net9.0\assignment2.deps.json
+D:\Revature\Revature_ Assignment\Day2\assignment2\bin\Debug\net9.0\assignment2.runtimeconfig.json
+D:\Revature\Revature_ Assignment\Day2\assignment2\bin\Debug\net9.0\assignment2.dll
+D:\Revature\Revature_ Assignment\Day2\assignment2\bin\Debug\net9.0\assignment2.pdb
+D:\Revature\Revature_ Assignment\Day2\assignment2\obj\Debug\net9.0\assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\Revature_ Assignment\Day2\assignment2\obj\Debug\net9.0\assignment2.AssemblyInfoInputs.cache
+D:\Revature\Revature_ Assignment\Day2\assignment2\obj\Debug\net9.0\assignment2.AssemblyInfo.cs
+D:\Revature\Revature_ Assignment\Day2\assignment2\obj\Debug\net9.0\assignment2.csproj.CoreCompileInputs.cache
+D:\Revature\Revature_ Assignment\Day2\assignment2\obj\Debug\net9.0\assignment2.dll
+D:\Revature\Revature_ Assignment\Day2\assignment2\obj\Debug\net9.0\refint\assignment2.dll
+D:\Revature\Revature_ Assignment\Day2\assignment2\obj\Debug\net9.0\assignment2.pdb
+D:\Revature\Revature_ Assignment\Day2\assignment2\obj\Debug\net9.0\assignment2.genruntimeconfig.cache
+D:\Revature\Revature_ Assignment\Day2\assignment2\obj\Debug\net9.0\ref\assignment2.dll
