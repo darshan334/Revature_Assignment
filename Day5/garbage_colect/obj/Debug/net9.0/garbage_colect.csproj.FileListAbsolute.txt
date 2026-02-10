@@ -1,0 +1,15 @@
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\bin\Debug\net9.0\garbage_colect.exe
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\bin\Debug\net9.0\garbage_colect.deps.json
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\bin\Debug\net9.0\garbage_colect.runtimeconfig.json
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\bin\Debug\net9.0\garbage_colect.dll
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\bin\Debug\net9.0\garbage_colect.pdb
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\obj\Debug\net9.0\garbage_colect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\obj\Debug\net9.0\garbage_colect.AssemblyInfoInputs.cache
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\obj\Debug\net9.0\garbage_colect.AssemblyInfo.cs
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\obj\Debug\net9.0\garbage_colect.csproj.CoreCompileInputs.cache
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\obj\Debug\net9.0\garbage_colect.sourcelink.json
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\obj\Debug\net9.0\garbage_colect.dll
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\obj\Debug\net9.0\refint\garbage_colect.dll
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\obj\Debug\net9.0\garbage_colect.pdb
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\obj\Debug\net9.0\garbage_colect.genruntimeconfig.cache
+D:\Revature\Revature_ Assignment\Day5\garbage_colect\obj\Debug\net9.0\ref\garbage_colect.dll

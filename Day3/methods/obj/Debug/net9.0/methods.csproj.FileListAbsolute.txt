@@ -1,0 +1,15 @@
+D:\Revature\Revature_ Assignment\Day3\methods\obj\Debug\net9.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\Revature_ Assignment\Day3\methods\obj\Debug\net9.0\methods.AssemblyInfoInputs.cache
+D:\Revature\Revature_ Assignment\Day3\methods\obj\Debug\net9.0\methods.AssemblyInfo.cs
+D:\Revature\Revature_ Assignment\Day3\methods\obj\Debug\net9.0\methods.csproj.CoreCompileInputs.cache
+D:\Revature\Revature_ Assignment\Day3\methods\obj\Debug\net9.0\methods.sourcelink.json
+D:\Revature\Revature_ Assignment\Day3\methods\bin\Debug\net9.0\methods.exe
+D:\Revature\Revature_ Assignment\Day3\methods\bin\Debug\net9.0\methods.deps.json
+D:\Revature\Revature_ Assignment\Day3\methods\bin\Debug\net9.0\methods.runtimeconfig.json
+D:\Revature\Revature_ Assignment\Day3\methods\bin\Debug\net9.0\methods.dll
+D:\Revature\Revature_ Assignment\Day3\methods\bin\Debug\net9.0\methods.pdb
+D:\Revature\Revature_ Assignment\Day3\methods\obj\Debug\net9.0\methods.dll
+D:\Revature\Revature_ Assignment\Day3\methods\obj\Debug\net9.0\refint\methods.dll
+D:\Revature\Revature_ Assignment\Day3\methods\obj\Debug\net9.0\methods.pdb
+D:\Revature\Revature_ Assignment\Day3\methods\obj\Debug\net9.0\methods.genruntimeconfig.cache
+D:\Revature\Revature_ Assignment\Day3\methods\obj\Debug\net9.0\ref\methods.dll

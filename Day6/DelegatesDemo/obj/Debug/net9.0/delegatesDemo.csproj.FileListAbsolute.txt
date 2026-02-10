@@ -1,0 +1,15 @@
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\bin\Debug\net9.0\delegatesDemo.exe
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\bin\Debug\net9.0\delegatesDemo.deps.json
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\bin\Debug\net9.0\delegatesDemo.runtimeconfig.json
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\bin\Debug\net9.0\delegatesDemo.dll
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\bin\Debug\net9.0\delegatesDemo.pdb
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\obj\Debug\net9.0\delegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\obj\Debug\net9.0\delegatesDemo.AssemblyInfoInputs.cache
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\obj\Debug\net9.0\delegatesDemo.AssemblyInfo.cs
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\obj\Debug\net9.0\delegatesDemo.csproj.CoreCompileInputs.cache
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\obj\Debug\net9.0\delegatesDemo.sourcelink.json
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\obj\Debug\net9.0\delegatesDemo.dll
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\obj\Debug\net9.0\refint\delegatesDemo.dll
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\obj\Debug\net9.0\delegatesDemo.pdb
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\obj\Debug\net9.0\delegatesDemo.genruntimeconfig.cache
+D:\Revature\Revature_ Assignment\Day6\delegatesDemo\obj\Debug\net9.0\ref\delegatesDemo.dll
