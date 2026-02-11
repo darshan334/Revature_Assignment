@@ -1,0 +1,32 @@
+D:\Revature\revature-persistent-dotnet-jan-2025\Day-7\Logger\obj\Debug\net8.0\Logger.csproj.AssemblyReference.cache
+D:\Revature\revature-persistent-dotnet-jan-2025\Day-7\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\revature-persistent-dotnet-jan-2025\Day-7\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+D:\Revature\revature-persistent-dotnet-jan-2025\Day-7\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+D:\Revature\revature-persistent-dotnet-jan-2025\Day-7\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+D:\Revature\revature-persistent-dotnet-jan-2025\Day-7\Logger\obj\Debug\net8.0\Logger.sourcelink.json
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\Logger.csproj.AssemblyReference.cache
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\Logger.sourcelink.json
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Logger.exe
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Logger.deps.json
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Logger.runtimeconfig.json
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Logger.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Logger.pdb
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Serilog.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\Logger.csproj.Up2Date
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\Logger.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\refint\Logger.dll
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\Logger.pdb
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\Logger.genruntimeconfig.cache
+D:\Revature\Revature_ Assignment\Day7\Logger\obj\Debug\net8.0\ref\Logger.dll
