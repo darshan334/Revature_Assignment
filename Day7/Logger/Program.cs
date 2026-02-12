@@ -12,7 +12,7 @@ services.AddLogging(config =>
         .MinimumLevel.Debug()
         .CreateLogger(), dispose: true);
 
-    // config.AddConsole();
+    config.AddConsole();
     config.SetMinimumLevel(LogLevel.Debug);
 });
 
