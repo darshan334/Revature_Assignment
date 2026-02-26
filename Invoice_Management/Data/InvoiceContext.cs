@@ -9,6 +9,8 @@ namespace Invoice_Management.Data
         public DbSet<InvoiceLineItem> InvoiceLineItems { get; set; }
         public DbSet<Payment> Payments { get; set; }
         public DbSet<PaymentMethod> PaymentMethods { get; set; }
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Quotation> Quotations { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
