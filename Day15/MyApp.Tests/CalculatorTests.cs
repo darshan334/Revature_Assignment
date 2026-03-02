@@ -57,7 +57,7 @@ public class CalculatorTests
     public void Multiply_TwoNumbers_GiveCorrectResult(int x, int y, int expectedResult)
     {
 
-        var calculator = new Calculator();
+        // var calculator = new Calculator();
 
         var actualResult = calculator.Multiply(x, y);
 
